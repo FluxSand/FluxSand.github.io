@@ -1,0 +1,17 @@
+title: FluxSand Doc
+description: FluxSand Doc
+
+url: https://FluxSand.github.io/
+
+logo: "img/FluxSand.jpg"
+
+favicon_ico: "img/FluxSand.jpg"
+
+
+aux_links:
+  Github: https://github.com/FluxSand
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: https://github.com/just-the-docs/just-the-docs
