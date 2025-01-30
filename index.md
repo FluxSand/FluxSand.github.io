@@ -6,4 +6,6 @@ nav_order: 1
 
 # FluxSand
 
-![FluxSand](/img/FluxSand.jpg)
+<div align=center>
+<img src="./img/FluxSand.jpg"  height="200">
+<p>
