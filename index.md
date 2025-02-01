@@ -4,8 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-# FluxSand
+# FluxSand - Interactive Digital Hourglass
 
-<div align=center>
-<img src="./img/FluxSand.jpg"  height="200">
-<p>
+<div align=center> <img src="./img/preview.png">
