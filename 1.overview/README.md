@@ -19,6 +19,6 @@ nav_order: 2
 - **Audio Feedback**: The buzzer provides audio cues when the countdown finishes or when switching modes, enhancing user experience.
 
 <div align=center>
-<img src="./imgs/preview.png">
+<img src="../img/preview.png">
 <p>
 </div>
