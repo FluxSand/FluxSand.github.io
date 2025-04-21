@@ -12,7 +12,7 @@ nav_order: 2
 - **Smart Flow Effect**: The LED matrix dynamically displays the movement of sand grains, adapting to device orientation.
 - **Multiple Modes**:
   - **Pomodoro Timer Mode**
-  - **Weather Clock Mode**
+  - **Temperature and Humidity Mode**
   - **Timing/Countdown Mode**
 - **Enhanced Physical Interaction**: Users can flip the device or use touch buttons to control functions like pause, speed adjustment, or reset.
 - **Adaptive Brightness**: A light sensor detects ambient light levels and automatically adjusts LED brightness for optimal visibility.
